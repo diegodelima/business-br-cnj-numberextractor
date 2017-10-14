@@ -22,7 +22,7 @@ AUTHOR
 
 Diego de Lima
 
-SPACIAL THANKS
+SPECIAL THANKS
 
 This module was kindly made available by the https://modeloinicial.com.br/ team.
 
